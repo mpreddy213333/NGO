@@ -1,0 +1,22 @@
+.navbar {
+    font-family: Montserrat, sans-serif;
+    margin-bottom: 0;
+    background-color: #ff4d4d;
+    border: 0;
+    font-size: 14px !important;
+    letter-spacing: 4px;
+    opacity: 0.9;
+}
+.navbar li a, .navbar .navbar-brand { 
+    color: #FFFFFF !important;
+}
+.navbar-nav li a:hover {
+    color: #2EF806 !important;
+}
+.navbar-nav li.active a {
+    color: #05FFFF !important;
+    background-color: #ff4d4d !important;
+}
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+}
